@@ -13,7 +13,7 @@
             "role": "Developer",
             "email": "kontakt@matero.de",
             "homepage": "https://www.matero.de"
-        },
+        }
     ],
     "type": "extension",
     "version": "1.0.1",
