@@ -44,7 +44,7 @@ $config = [
 return $config;
 ```
 
-Check BugsnagSetup.php for more config options.
+Check [BugsnagSetup](https://github.com/materodev/yii2-bugsnag/blob/master/src/BugsnagSetup.php) for more config options.
 
 ## Change log
 
