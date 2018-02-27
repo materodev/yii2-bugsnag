@@ -1,0 +1,29 @@
+{
+    "name": "materodev/yii2-bugsnag",
+    "description": "A better Yii2 Bugsnag implementation",
+    "authors": [
+        {
+            "name": "Paul Heisig",
+            "role": "Developer",
+            "email": "kontakt@matero.de",
+            "homepage": "https://www.matero.de"
+        },
+        {
+            "name": "Christoph Erdmann",
+            "role": "Developer",
+            "email": "kontakt@matero.de",
+            "homepage": "https://www.matero.de"
+        },
+    ],
+    "type": "extension",
+    "version": "1.0.1",
+    "autoload": {
+        "psr-4": {
+            "materodev\\yii2bugsnag\\": "src/"
+        }
+    },
+    "require": {
+        "bugsnag/bugsnag": "~3.5",
+        "yiisoft/yii2": "~2.0.0"
+    }
+}
